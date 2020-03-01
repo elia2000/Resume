@@ -1,0 +1,23 @@
+h1 {
+  font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.SocialsIcon {
+  margin-top: 10px;
+}
+
+.social-icon {
+  margin-left: 13px;
+}
+
+.containerH {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  transform: translateY(12.3rem);
+}

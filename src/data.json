@@ -1,0 +1,94 @@
+{
+  "title": "Hello, I'm Elia!",
+  "subtitle": "Front-End Dev | Open-Source Enthusiast",
+  "links": {
+    "github": "https://github.com/elia2000",
+    "stackoverflow": "https://stackoverflow.com/story/eliar",
+    "twitter": "https://twitter.com/EliaRahimi7",
+    "linkedin": "https://www.linkedin.com/in/elia-rahimi-1a160317a"
+  },
+  "nav": {
+    "icon": "Statics/creation.png",
+    "title1": "About",
+    "title2": "Skills",
+    "colors": {
+      "bgColor": ["#f5f5f5", "#265447", "#8dc1fc", "#2b244f"],
+      "Color": ["#265447", "#f5f5f5", "#00244d", "white"]
+    }
+  },
+  "DownArrow": "Statics/downarrow.svg",
+  "UpArrow": "Statics/uparrow.png",
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I Love to Tyr anything & learn."
+        },
+        {
+          "type": "p",
+          "content": "I've Bachelor of Chemical Engineering and I'm interesting in Programming."
+        },
+        {
+          "type": "p",
+          "content": "When my dev senses Kick-in I build presesumably awesome stuff. I stay close to the community and try to keep tabs ith the pace at whitch the web is evolving. I also like to study my university books!"
+        }
+      ]
+    },
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": {
+            "image": "Statics/html5.png",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "p",
+          "content": {
+            "image": "Statics/css3.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "p",
+          "content": {
+            "image": "Statics/bootstrap.png",
+            "title": "Bootstrap"
+          }
+        },
+        {
+          "type": "p",
+          "content": {
+            "image": "Statics/javascriptLogo.svg",
+            "title": "JavaScripts"
+          }
+        },
+        {
+          "type": "p",
+          "content": {
+            "image": "Statics/react.png",
+            "title": "Raect"
+          }
+        },
+        {
+          "type": "p",
+          "content": {
+            "image": "Statics/autocad.png",
+            "title": "AutoCAD"
+          }
+        },
+        {
+          "type": "p",
+          "content": {
+            "image": "Statics/matlab.png",
+            "title": "MATLAB"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.item2 {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    text-align: left;
+    align-items: flex-start;
+    flex-direction: row;
+    height: 39px;
+}
+
+.about,
+.skills {
+    width: 60px;
+}
+
+.about:hover,
+.skills:hover {
+    cursor: pointer;
+}
+
+.about:hover,
+.skills:hover {
+    border-bottom: 1.5px solid black;
+    padding-bottom: 5px;
+    cursor: pointer;
+}

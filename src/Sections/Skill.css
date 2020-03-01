@@ -1,0 +1,15 @@
+h5 {
+    width: 70%;
+    text-align: left;
+    font-size: 3rem;
+    margin-bottom: 50px;
+}
+
+.cardsWarpper {
+    width: 70%;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}

@@ -1,3 +1,17 @@
+* {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+}
+
+.wizard {
+  position: fixed;
+  top: 13px;
+  left: 13px;
+}
+
+.wizard:hover {
+  cursor: pointer;
+}
+
 .App {
   text-align: center;
 }
@@ -32,6 +46,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

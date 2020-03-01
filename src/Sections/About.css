@@ -1,0 +1,29 @@
+h3 {
+    width: 70%;
+    text-align: left;
+    font-size: 3rem;
+}
+
+p {
+    text-align: left;
+    font-size: 1.2rem;
+    margin: 0 0 20px 0;
+    padding: 0;
+    line-height: 1.8rem;
+}
+
+div {
+    width: 70%;
+    margin: 0;
+    padding: 0;
+}
+
+.containerA {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    transform: translateY(11.9rem);
+}

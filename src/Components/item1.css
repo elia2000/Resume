@@ -1,0 +1,14 @@
+.item1 {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.colorChenge {
+    width: 40px;
+    text-align: center;
+    padding: 5px 0 0 4px;
+    font-size: .5rem;
+}

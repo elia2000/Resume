@@ -1,0 +1,19 @@
+.navcontainer {
+    padding-top: 13px;
+    width: 98%;
+    position: fixed;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 11.7975px;
+}
+
+h6 {
+    width: 30px;
+    text-align: center;
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 0;
+}
